@@ -33,9 +33,13 @@ Taller players became overrepresented in Tier 1 ('Elite Players') relative to ot
 **Figure 4. Correlation Between Height and Serve Performance by Playing Surface on the ATP Main Tour**
 
 ![image](https://github.com/ursus-maritimus-714/Trends-In-Mens-Tennis/assets/90933302/2ee573bf-2039-4ef5-a313-054bda466e3e)
+*Each data point represents one Top 200 player’s mean performance for a given sample year on the appropriate courts.*
+
+**Figure 5. Correlation Between Height and Serve Performance on the ATP Main Tour on Hard Courts by Ranking Tier**
+
+![image](https://github.com/ursus-maritimus-714/Trends-In-Mens-Tennis/assets/90933302/f304efd9-fd20-4978-ac28-82a79c919aab)
 *Each data point represents one Top 200 player’s mean performance for a given sample year on hard courts.*
 
-**
 
 
 

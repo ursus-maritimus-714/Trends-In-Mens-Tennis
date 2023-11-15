@@ -28,7 +28,7 @@ Taller players became overrepresented in Tier 1 ('Elite Players') relative to ot
 
 ![image](https://github.com/ursus-maritimus-714/Trends-In-Mens-Tennis/assets/90933302/71d201d6-7b2a-48a9-b0e9-ad8d0b549012)
 
-3) Height and player serve performance are positively correlated across the sample, both overall on each surface (**Figure 4**) and across rankings tiers on both surfaces (**Figure 5**; hard court data shown in Panel B).
+3) Height and player serve performance were positively correlated across the sample, both overall on each surface (**Figure 4**) and across rankings tiers on both surfaces (**Figure 5**; hard court data shown in Panel B).
 
 **Figure 4. Correlation Between Height and Serve Performance by Playing Surface on the ATP Main Tour**
 
@@ -38,8 +38,19 @@ Taller players became overrepresented in Tier 1 ('Elite Players') relative to ot
 **Figure 5. Correlation Between Height and Serve Performance on the ATP Main Tour on Hard Courts by Ranking Tier**
 
 ![image](https://github.com/ursus-maritimus-714/Trends-In-Mens-Tennis/assets/90933302/f304efd9-fd20-4978-ac28-82a79c919aab)
-*Each data point represents one Top 200 player’s mean performance for a given sample year on hard courts.*
+*Each data point represents one Top 200 player’s mean performance for a given sample year on hard courts. The positive correlation was slightly more pronounced when considering only data from the most recent 10 years of the sample (not shown)*
 
+4) There was a negative correlation between player height and return performance over the sample timeframe (**Figure 6**). Nonetheless, gains in serve performance with increased height were greater than losses in return performance on both surfaces (**Figure 7**). This can be seen in the positive correlation between height and total points win% (mean points win% per player, per match across BOTH serve and return points).
+
+**Figure 6. Correlation Between Height and Return Performance by Playing Surface on the ATP Main Tour**
+
+![image](https://github.com/ursus-maritimus-714/Trends-In-Mens-Tennis/assets/90933302/e0fc0e32-7438-4746-acfa-6b66114a429e)
+*Each data point represents one Top 200 player’s mean performance for a given sample year on the appropriate courts.*
+
+**Figure 7. Correlation Between Height and Overall Performance by Playing Surface on the ATP Main Tour**
+
+![image](https://github.com/ursus-maritimus-714/Trends-In-Mens-Tennis/assets/90933302/a2fc9c2a-75aa-4955-b8d1-1404d42ef609)
+*Each data point represents one Top 200 player’s mean performance, serve and return points taken together, for a given sample year on the appropriate courts.*
 
 
 

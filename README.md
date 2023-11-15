@@ -16,23 +16,23 @@ Taller players became overrepresented in Tier 1 ('Elite Players') relative to ot
 
 **Figure 1. Height Representation on the ATP Main Tour Over Time**
 
-![image](https://github.com/ursus-maritimus-714/Trends-In-Mens-Tennis/assets/90933302/11acb8ca-6837-4930-acd5-aa10b13486c7)
+![image](https://github.com/ursus-maritimus-714/Trends-In-Mens-Tennis/assets/90933302/78118ad6-b0d5-497c-964b-fe0277311490)
 
 **Figure 2. Height Representation on the ATP Main Tour Over Time By Ranking Tier**
 
-![image](https://github.com/ursus-maritimus-714/Trends-In-Mens-Tennis/assets/90933302/d0e9aa50-f212-4b8b-ba48-dd214b01ade7)
+![image](https://github.com/ursus-maritimus-714/Trends-In-Mens-Tennis/assets/90933302/3c1d5ad2-9680-4be3-8908-e23f1844e577)
 
 2) Along with player height, player serve performance (as measured by mean serve points win% per player, per match) also improved over the sample interval across ranking tiers (**Figure 3**). Performance improved on both clay and hard courts, but perhaps moreso on clay courts over the past ~10 years (Panel B). Nonetheless, because ~70% of tour matches are played on hard courts, most of the analysis moving forward will focus on hard court performance over time.
 
 **Figure 3. Serve Performance on the ATP Main Tour Over Time, Overall and by Playing Surface**
 
-![image](https://github.com/ursus-maritimus-714/Trends-In-Mens-Tennis/assets/90933302/ba8c52e2-2aee-474c-b91d-d748c7ed228d)
+![image](https://github.com/ursus-maritimus-714/Trends-In-Mens-Tennis/assets/90933302/71d201d6-7b2a-48a9-b0e9-ad8d0b549012)
 
 3) Height and player serve performance are positively correlated across the sample, both overall on each surface (**Figure 4**) and across rankings tiers on both surfaces (**Figure 5**; hard court data shown in Panel B).
 
 **Figure 4. Correlation Between Height and Serve Performance by Playing Surface on the ATP Main Tour**
 
-![image](https://github.com/ursus-maritimus-714/Trends-In-Mens-Tennis/assets/90933302/95046b5a-deaf-404b-9f63-6df4d5f139f5)
+![image](https://github.com/ursus-maritimus-714/Trends-In-Mens-Tennis/assets/90933302/2ee573bf-2039-4ef5-a313-054bda466e3e)
 *Each data point represents one Top 200 player’s mean performance for a given sample year on hard courts.*
 
 **

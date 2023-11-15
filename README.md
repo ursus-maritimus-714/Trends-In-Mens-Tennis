@@ -15,19 +15,23 @@ All data manipulation, processing, and analyses were conducted in the Python/Pan
 Taller players became overrepresented in Tier 1 ('Elite Players') relative to other rankings tiers (blue arrow in Panel C), though the height curves for each of Tier 1-Tier 3 right-shifted over time (**Figure 2**).
 
 **Figure 1. Height Representation on the ATP Main Tour Over Time**
+
 ![image](https://github.com/ursus-maritimus-714/Trends-In-Mens-Tennis/assets/90933302/11acb8ca-6837-4930-acd5-aa10b13486c7)
 
 **Figure 2. Height Representation on the ATP Main Tour Over Time By Ranking Tier**
+
 ![image](https://github.com/ursus-maritimus-714/Trends-In-Mens-Tennis/assets/90933302/d0e9aa50-f212-4b8b-ba48-dd214b01ade7)
 
 2) Along with player height, player serve performance (as measured by mean serve points win% per player, per match) also improved over the sample interval across ranking tiers (**Figure 3**). Performance improved on both clay and hard courts, but perhaps moreso on clay courts over the past ~10 years (Panel B). Nonetheless, because ~70% of tour matches are played on hard courts, most of the analysis moving forward will focus on hard court performance over time.
 
 **Figure 3. Serve Performance on the ATP Main Tour Over Time, Overall and by Playing Surface**
+
 ![image](https://github.com/ursus-maritimus-714/Trends-In-Mens-Tennis/assets/90933302/ba8c52e2-2aee-474c-b91d-d748c7ed228d)
 
 3) Height and player serve performance are positively correlated across the sample, both overall on each surface (**Figure 4**) and across rankings tiers on both surfaces (**Figure 5**; hard court data shown in Panel B).
 
 **Figure 4. Correlation Between Height and Serve Performance by Playing Surface on the ATP Main Tour**
+
 ![image](https://github.com/ursus-maritimus-714/Trends-In-Mens-Tennis/assets/90933302/95046b5a-deaf-404b-9f63-6df4d5f139f5)
 *Each data point represents one Top 200 player’s mean performance for a given sample year on hard courts.*
 
